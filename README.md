@@ -4,9 +4,9 @@ import { Button } from "@/components/ui/button";
 import { Instagram, Mail } from "lucide-react";
 
 const photos = [
-  { src: "/images/basketball1.jpg", alt: "Basketball action 1" },
-  { src: "/images/basketball2.jpg", alt: "Basketball action 2" },
-  { src: "/images/basketball3.jpg", alt: "Basketball action 3" },
+  { src: "![IMG_3117]", alt: "Basketball action 1" },
+  { src: "![IMG_1874]", alt: "Basketball action 2" },
+  { src: "![IMG_1867]", alt: "Basketball action 3" },
 ];
 
 export default function Portfolio() {
